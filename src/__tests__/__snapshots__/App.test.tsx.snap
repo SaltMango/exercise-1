@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`time renders correctly 1`] = `
+<div
+  className="container"
+>
+  <h1
+    className="time"
+  >
+    05:50:30 PM
+  </h1>
+</div>
+`;
